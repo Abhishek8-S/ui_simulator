@@ -1,0 +1,2 @@
+connection_config:
+  url: "nats://localhost:4225"

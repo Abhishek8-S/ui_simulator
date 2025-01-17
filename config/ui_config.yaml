@@ -1,0 +1,9 @@
+Button_config:
+  start_calibration: 
+    stream : "data"
+    type: "start_calibration"
+    subject: "sv-maintenance.commands"
+  eject_tray:
+    stream : "data"
+    type: "eject_tray"
+    subject: "sv-maintenance.commands"
